@@ -3,7 +3,8 @@
 
   "name": "Spotify desktop enabler",
   "description": "Makes all spotify web links open in the desktop application instead.",
-  "version": "0.1",
+  "version": "1.0",
+  "author": "Gustav Bylund",
   
   "permissions": [
     "declarativeWebRequest",
